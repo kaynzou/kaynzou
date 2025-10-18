@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Preetam Kumar</h1>
-<h3 align="center">A passionate AI/ML enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Kaynzou</h1>
+<h3 align="center">A passionate AI/ML enthusiast</h3>
 
 - 🔭 I’m currently working on **AI/ML mini projects**
 
 - 🌱 I’m currently learning **Frameworks, tools and exploring many more**
-
-- 📫 How to reach me **preetamk0069@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
