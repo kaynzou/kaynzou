@@ -1,5 +1,3 @@
-[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
-
 <h1 align="center">Hi 👋, I'm Preetam Kumar</h1>
 <h3 align="center">A passionate developer and AI/ML enthusiast</h3>
 
@@ -13,7 +11,7 @@
   
 - 🌱 I’m currently learning **Spring Boot, Spring AI, React**
 
-- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
+- 💬 Ask me about **Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
 
 - 📫 How to reach me **preetamk0069@gmail.com**
 
