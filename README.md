@@ -1,7 +1,7 @@
 [![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
 
-<h1 align="center">Hi 👋, I'm Abhinendra Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Preetam Kumar</h1>
+<h3 align="center">A passionate developer and AI/ML enthusiast</h3>
 
 
 ###
@@ -11,15 +11,15 @@
 ###
 - 🔭 I’m currently working on **Backend**
   
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
+- 🌱 I’m currently learning **Spring Boot, Spring AI, React**
 
 - 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
 
-- 📫 How to reach me **abhinendrayadav3@gmail.com**
+- 📫 How to reach me **preetamk0069@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://linkedin.com/in/abhinendrasingh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinendrasingh3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/preetamkumar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinendrasingh3" height="30" width="40" /></a>
 <a href="https://instagram.com/_jodxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avvhii" height="30" width="40" /></a>
 </p> 
 
