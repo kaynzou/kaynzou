@@ -101,52 +101,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
-## My GitHub Stats :)
-
-<div align="center">
-  <h4>Visitor's count :eyes:</h4>
-  <p><img src="https://profile-counter.glitch.me/{kaynzou}/count.svg" alt="Rathod Anil Visitor's count" /></p>
-</div>
-
-<div align="center">
-  <h4>Profile stats</h4>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=kaynzou&count_private=true&show_icons=true&theme=gotham" /></p>
-</div>
-
-<div align="center">
-  <a href="http://www.github.com/RathodAnilT">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RathodAnilT&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" alt="RathodAnilT's GitHub streak stats" />
-  </a>
-</div>
-
-<br/>
-<br/>
-
-<table>
-  <tr>
-    <td>
-      <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=RathodAnilT&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RathodAnilT&theme=radical" alt="Profile Details" />
-    </td>
-  </tr>
-</table>
-<br/>
-<p align="center">
-  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RathodAnilT&theme=dark" alt="Top Languages Card"/>
-  &nbsp;&nbsp;
-  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RathodAnilT&theme=dark" alt="Most Used Language Card"/>
-</p>
-
-
-
-<br/>
-<br/>
-
-![Preetam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RathodAnilT&bg_color=000000&color=ffffff&line=ff5733&point=33ff57&area=true&hide_border=true)
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
