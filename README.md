@@ -5,11 +5,6 @@
 
 <br/>
     <td align="center">
-      <img src="assets/Rathod.jpeg" width="500" height="400" />
-    </td>
-    </td>
-    </td>
-    <td align="center">
       <img src="https://raw.githubusercontent.com/Srinivasa-Pradeep/Srinivasa-Pradeep/c8f0a7bde22ff05b7e140f66977ac8870a1281cd/Asset/Dev-Setup%20Illustration.png" width="500" height="400" />
     </td>
   </tr>
