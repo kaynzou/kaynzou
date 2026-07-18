@@ -4,9 +4,6 @@
 </p>
 
 <br/>
-  <tr>
-  <table align="center">
-  <tr>
     <td align="center">
       <img src="assets/Rathod.jpeg" width="500" height="400" />
     </td>
