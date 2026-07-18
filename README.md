@@ -90,7 +90,7 @@
   <table>
   <tr>
     <td>
-       <img src="https://streak-stats.demolab.com?user=kaynzou&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="1000px" />
+       <img src="https://streak-stats.demolab.com?user=kaynzou&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600px" />
     </td>
     <td>
       
@@ -101,6 +101,10 @@
 
 <br/>
 <br/>
+
+
+
+
    
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!;Connect+me+on+LinkedIn!;I%27m+always+ready+to+collab+:)" alt="Typing SVG" />
