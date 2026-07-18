@@ -90,7 +90,7 @@
   <table>
   <tr>
     <td>
-       <img src="https://streak-stats.demolab.com?user=kush1jpeg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600px" />
+       <img src="https://streak-stats.demolab.com?user=kaynzou&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="800px" />
     </td>
     <td>
       
