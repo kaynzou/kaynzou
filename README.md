@@ -1,16 +1,7 @@
-
 <br/>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="assets/Rathod.jpeg" width="500" height="400" />
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Srinivasa-Pradeep/Srinivasa-Pradeep/c8f0a7bde22ff05b7e140f66977ac8870a1281cd/Asset/Dev-Setup%20Illustration.png" width="500" height="400" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&height=300" alt="Dynamic Quote"/>
+</p>
 
 <br/>
 <p align="center">
