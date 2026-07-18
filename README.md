@@ -5,7 +5,7 @@
 
 <br/>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Srinivasa-Pradeep/Srinivasa-Pradeep/c8f0a7bde22ff05b7e140f66977ac8870a1281cd/Asset/Dev-Setup%20Illustration.png" width="800" height="400" />
+      <img src="https://raw.githubusercontent.com/Srinivasa-Pradeep/Srinivasa-Pradeep/c8f0a7bde22ff05b7e140f66977ac8870a1281cd/Asset/Dev-Setup%20Illustration.png" width="1000" height="500" />
     </td>
   </tr>
 </table>
