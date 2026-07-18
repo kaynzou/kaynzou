@@ -55,7 +55,7 @@
 
 
 <h1 align="center">Glad to see you here!</h1>
-<p align="center"> I am Anil Rathod, I'm a passionate learner, always eager to explore and work across technologies. I love solving real-world problems and </p>
+<p align="center"> I am Preetam Kumar, I'm a passionate learner, always eager to explore and work across technologies. I love solving real-world problems </p>
 <br/>
 <h1 align="center">Talking about personal stuff:</h1>
 
