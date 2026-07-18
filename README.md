@@ -1,10 +1,5 @@
 
 <br/>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&height=300" alt="Dynamic Quote"/>
-</p>
-
-<br/>
 
 <table align="center">
   <tr>
